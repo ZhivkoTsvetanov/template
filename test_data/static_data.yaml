@@ -1,0 +1,12 @@
+staging_desktop:
+    static_username: test@gmail.com
+    static_city: Sofia
+    environment_url: https://xxxxxxxxxx.com
+    environment_api: hhttps://xxxxxxxxxx.com
+    account_register: https://xxxxxxxxxx.com
+demo_desktop:
+    static_username: test@gmail.com
+    static_city: Sofia
+    environment_url: https://xxxxxxxxxx.com
+    environment_api: hhttps://xxxxxxxxxx.com
+    account_register: https://xxxxxxxxxx.com
